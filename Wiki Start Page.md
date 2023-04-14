@@ -31,7 +31,7 @@ layout: main_page
 <div class="wiki-main-page-panel">
 
 # 게임하기
-원을 클릭하고, 북을 두들기며, 과일을 받고, 키를 이용한 신시사이저를 연주하는 모든 것에 대한 정보가 여기 있습니다.
+원을 클릭하고, 북을 두들기며, 과일을 받고, 키를 이용해 신시사이저를 연주하는 모든 것에 대한 정보가 여기 있습니다.
     
 [게임 모드](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
@@ -47,7 +47,7 @@ layout: main_page
     
 섹션: [구성](/wiki/Client/Beatmap_editor/Compose) • [디자인](/wiki/Client/Beatmap_editor/Design) • [타이밍](/wiki/Client/Beatmap_editor/Timing) • [곡 설정](/wiki/Client/Beatmap_editor/Song_Setup)
 
-구성 요소: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [비트 스냅 박자](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [거리 스냅](/wiki/Client/Beatmap_editor/Distance_snap) • [메뉴](/wiki/Client/Beatmap_editor/Menu) • [스토리보드 부하](/wiki/Client/Beatmap_editor/SB_Load) • [타임라인](/wiki/Client/Beatmap_editor/Timelines)
+구성 요소: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [비트 스냅 박자](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [거리 스냅](/wiki/Client/Beatmap_editor/Distance_snap) • [메뉴](/wiki/Client/Beatmap_editor/Menu) • [스토리보드 부하](/wiki/Client/Beatmap_editor/SB_Load) • [타임라인](/wiki/Client/Beatmap_editor/Timelines) ***여기까지 수정했음***
 
 [비트매핑](/wiki/Beatmapping) • [난이도](/wiki/Beatmap/Difficulty) • [매핑 테크닉](/wiki/Beatmapping/Mapping_techniques) • [스토리보드 만들기](/wiki/Storyboard#storyboarding)
 
