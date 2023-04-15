@@ -1,5 +1,5 @@
 # SAVE file of [osu! Wiki](https://github.com/ppy/osu-wiki) locale md
-* Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
+Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 # What I'll do
 * *nothing now...*
