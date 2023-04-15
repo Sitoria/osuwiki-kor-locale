@@ -1,5 +1,5 @@
-# TEXT SAVE of my [osu! Wiki](https://github.com/ppy/osu-wiki)
-* translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
+# TEXT SAVE of my [osu! Wiki](https://github.com/ppy/osu-wiki) locale txt (like backup)
+* Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 # What i'm doing
 * [Main Page](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Main%20Page/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md)
