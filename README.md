@@ -14,5 +14,5 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 # Passed localization and Wait for Push (Qualified)
 *Nothing . . . yet.*
 
-# Merged to Official Wiki (Ranked)
+# Merged to Official Wiki (Approved)
 *Nothing . . . :(*
