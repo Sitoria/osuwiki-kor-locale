@@ -43,7 +43,7 @@ layout: main_page
 
 # [비트맵 에디터](/wiki/Client/Beatmap_editor)
    
-모든 osu! 비트맵들은 역동적인 커뮤니티의 꽃피는 상상력으로 제작되었습니다. 자신이 좋아하는 음악을 다른 사람과 공유하고 싶어했지만 방법을 모르시나요? osu!에 내장된 편집 도구가 제공하는 기능을 숙지하세요!
+모든 osu! 비트맵들은 역동적인 커뮤니티의 꽃피는 상상력으로 제작되었습니다. 자신이 좋아하는 음악을 다른 사람과 공유하고 싶어했지만 방법을 모르시나요? osu!에 내장된 편집 도구가 제공하는 기능들을 숙지해 보세요!
     
 섹션: [구성](/wiki/Client/Beatmap_editor/Compose) • [디자인](/wiki/Client/Beatmap_editor/Design) • [타이밍](/wiki/Client/Beatmap_editor/Timing) • [곡 설정](/wiki/Client/Beatmap_editor/Song_Setup)
 
