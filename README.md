@@ -6,6 +6,7 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 # What i'm doing (WIP)
 * [Main Page](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md)
+* [osu!dev Discord server]
 
 # What i've Finished (Pending)
 *Main Page Waiting Room*
