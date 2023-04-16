@@ -5,9 +5,9 @@ tags:
 
 # osu!dev 디스코드 서버
 
-**osu!dev**는 공식 [디스코드](https://discordapp.com) 서버입니다. for working on osu!'s open source and community projects. This is the main place to contribute to osu!'s development and get in touch with the [osu! team](/wiki/People/osu!_team).
+**osu!dev**는 osu!의 오픈 소스와 커뮤니티 프로젝트들의 작업을 위한 공식 [디스코드](https://discordapp.com) 서버입니다. 이 서버는 osu!의 개발과 [osu!팀](/wiki/People/osu!_team)에게 연락할 수 있는 주요 장소입니다.
 
-The permanent invite link is <https://discord.gg/ppy>.
+서버의 공식적인 초대링크는 <https://discord.gg/ppy> 입니다.
 
 People new to the server may feel free to introduce themselves in the `#introductions` channel, but doing so is not a requirement to interact with the rest of the server.
 
