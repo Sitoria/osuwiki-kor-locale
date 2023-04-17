@@ -11,7 +11,7 @@ tags:
 
 People new to the server may feel free to introduce themselves in the `#introductions` channel, but doing so is not a requirement to interact with the rest of the server.
 
-새로 서버에 들어오는 사람들은 자유롭게 자기소개를 `#introductions` 채널에 작성할 수 있습니다. 그러나 소개를 하지 않더라도 다른 채널을 둘러볼 수 있습니다.
+새로 서버에 들어오는 사람들은 자유롭게 자기소개를 `#introductions` 채널에 작성할 수 있습니다. 작성이 필수는 아니며, 작성하지 않더라도 다른 체널을 둘러보는데 아무런 지장이 없습니다.
 
 ## Projects
 
