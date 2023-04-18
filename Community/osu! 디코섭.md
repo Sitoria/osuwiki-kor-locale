@@ -13,35 +13,21 @@ tags:
 
 ## 프로젝트
 
-Each main development discussed in the server has its own channel:
+서버에서 논의되고 있는 주요 개발 주제들은 각 채널에서 토론되고 있습니다:
 
 | Project | Channel |
 | :-- | :-- |
-| [osu!(lazer)](/wiki/Client/Release_stream/Lazer) | `#osu-lazer` |
-| [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
-| [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
-| [osu!](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmap/Star_rating) and [performance points](/wiki/Performance_points) | `#difficulty-osu` |
-| [osu!taiko](/wiki/Game_mode/osu!taiko) star rating and performance points | `#difficulty-taiko` |
-| [osu!catch](/wiki/Game_mode/osu!catch) star rating and performance points | `#difficulty-catch` |
-| [osu!mania](/wiki/Game_mode/osu!mania) star rating and performance points | `#difficulty-mania` |
-| [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
-| [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
+| [osu!(레이저)](/wiki/Client/Release_stream/Lazer) | `#osu-lazer` |
+| [osu!프레임워크](https://github.com/ppy/osu-framework) | `#osu-framework` |
+| [osu!웹](https://github.com/ppy/osu-web) | `#osu-web` |
+| [osu!](/wiki/Game_mode/osu!) [스타레이팅](/wiki/Beatmap/Star_rating) 과 [퍼포먼스 포인트](/wiki/Performance_points) | `#difficulty-osu` |
+| [osu!taiko](/wiki/Game_mode/osu!taiko) 스타레이팅과 퍼포먼스 포인트 | `#difficulty-taiko` |
+| [osu!catch](/wiki/Game_mode/osu!catch) 스타레이팅과 퍼포먼스 포인트 | `#difficulty-catch` |
+| [osu!mania](/wiki/Game_mode/osu!mania) 스타레이팅과 퍼포먼스 포인트 | `#difficulty-mania` |
+| [비트맵 스포트라이트](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
+| [osu! 위키](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
 | [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
-| [Official tournament support](/wiki/Tournaments/Official_support) | `#tournaments` |
-| [osu! community meetings](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
-| [Modding](/wiki/Modding) discussion and [NAT meetings](/wiki/People/Nomination_Assessment_Team/NAT_meetings) | `#modding` |
+| [공식 토너먼트 지원](/wiki/Tournaments/Official_support) | `#tournaments` |
+| [osu! 커뮤니티 미팅](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
+| [모딩](/wiki/Modding) 토론과 [NAT 미팅](/wiki/People/Nomination_Assessment_Team/NAT_meetings) | `#modding` |
 | [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
