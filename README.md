@@ -9,10 +9,10 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 * [Main Page](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md)
 
 # What i've Finished (Pending)
-* [`Legal`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/%EB%B2%95%EB%A5%A0.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9173) | [Wiki Page](https://osu.ppy.sh/legal/ko)
+~~nothing :(~~
 
 # Passed localization and Wait for Push (Qualified)
-*nothing.......*
+* [`Legal`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/%EB%B2%95%EB%A5%A0.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9173) | [Wiki Page](https://osu.ppy.sh/legal/ko)
 
 # Merged to Official Wiki (Approved)
 1. [`People/osu! Wiki Maintainers`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%9C%84%ED%82%A4%20%EA%B4%80%EB%A6%AC%EC%9E%90.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9150) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_wiki_maintainers) 
