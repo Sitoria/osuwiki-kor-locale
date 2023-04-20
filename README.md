@@ -19,4 +19,4 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 2. [`Client/File formats/osz`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Client/File%20Format/osz%20(%ED%99%95%EC%9E%A5%EC%9E%90).md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9152) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Client/File_formats/Osz_(file_format))
 
 # Outdated - need to re-translate (Disqualified)
-* [`osu!dev Discord server`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Community/osu!%20%EB%94%94%EC%BD%94%EC%84%AD.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9174) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Community/osu!dev_Discord_server)
+* [`osu!dev Discord server`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Community/osu!%20%EB%94%94%EC%BD%94%EC%84%AD.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9174) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Community/osu!dev_Discord_server) | dq cuz Pending PR in en.md (2023-04-19)
