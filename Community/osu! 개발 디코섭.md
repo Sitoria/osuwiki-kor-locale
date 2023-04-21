@@ -31,3 +31,5 @@ tags:
 | [osu! 커뮤니티 미팅](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
 | [모딩](/wiki/Modding) 토론과 [NAT 미팅](/wiki/People/Nomination_Assessment_Team/NAT_meetings) | `#modding` |
 | [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |
+
+Feedback in [PR Page](https://github.com/ppy/osu-wiki/pull/9174). 
