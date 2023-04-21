@@ -20,3 +20,6 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 # Outdated - need to re-translate (Disqualified)
 * [`osu!dev Discord server`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Community/osu!%20%EB%94%94%EC%BD%94%EC%84%AD.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9174) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Community/osu!dev_Discord_server) | dq cuz Pending PR in en.md (2023-04-19)
+
+## Others (Guest Difficulty)
+* [`Main Page`](https://github.com/ppy/osu-wiki/pull/9196/commits/a2ed572e4c468589168085837a2486d8a6442336) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9196) | (Suggest Fix osu!dev to osu!)
