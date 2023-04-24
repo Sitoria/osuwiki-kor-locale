@@ -6,9 +6,10 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 
 # What i'm doing (WIP)
-* [Main Page](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md)
+*Nothing..... :(*
 
 # What i've Finished (Pending)
+* [`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9225) | [Wiki Page](https://osu.ppy.sh/wiki/en/Main_Page)
 * [`Community/osu! discord server`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Community/osu!%20%EB%94%94%EC%BD%94%20%EC%84%9C%EB%B2%84.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9174) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Community/osu!_Discord_server)
 
 # Passed localization and Wait for Push (Qualified)
