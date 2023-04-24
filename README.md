@@ -2,11 +2,10 @@
 Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 # What I'll do (Not Submitted)
-* [osu! Team](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md)
-
+*Searching Size:XS...*
 
 # What i'm doing (WIP)
-*Nothing..... :(*
+* [People/osu! Team](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md)
 
 # What i've Finished (Pending)
 * [`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9225) | [Wiki Page](https://osu.ppy.sh/wiki/en/Main_Page)
