@@ -12,7 +12,6 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 # What i've Finished (Pending)
 * [`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9225) | [Wiki Page](https://osu.ppy.sh/wiki/en/Main_Page)
-* [`Community/osu! discord server`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Community/osu!%20%EB%94%94%EC%BD%94%20%EC%84%9C%EB%B2%84.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9174) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Community/osu!_Discord_server)
 
 # Passed localization and Wait for Push (Qualified)
 ~~Nothing Here~~
@@ -21,6 +20,7 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 1. [`People/osu! Wiki Maintainers`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%9C%84%ED%82%A4%20%EA%B4%80%EB%A6%AC%EC%9E%90.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9150) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_wiki_maintainers) 
 2. [`Client/File formats/osz`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Client/File%20Format/osz%20(%ED%99%95%EC%9E%A5%EC%9E%90).md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9152) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Client/File_formats/Osz_(file_format))
 3. [`Legal`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/%EB%B2%95%EB%A5%A0.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9173) | [Wiki Page](https://osu.ppy.sh/legal/ko)
+4. [`Community/osu! discord server`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Community/osu!%20%EB%94%94%EC%BD%94%20%EC%84%9C%EB%B2%84.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9174) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Community/osu!_Discord_server)
 
 # Outdated - need to re-translate (Disqualified)
 * ~~[`osu!dev Discord server`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Community/osu!%20%EA%B0%9C%EB%B0%9C%20%EB%94%94%EC%BD%94%EC%84%AD.md) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Community/osu!dev_Discord_server) | dq cuz Pending PR in en.md (2023-04-19)~~ Renamed to `osu! Discord Server`
