@@ -3,6 +3,7 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 # What I'll do (Not Submitted)
 * [TAG](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmap/%ED%83%9C%EA%B7%B8.md)
+* [Beatmap Host](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmap/%EB%B9%84%ED%8A%B8%EB%A7%B5%20%ED%98%B8%EC%8A%A4%ED%8A%B8.md)
 
 # What i'm doing (WIP)
 * [People/osu! Team](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md)
