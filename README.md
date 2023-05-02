@@ -11,6 +11,7 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 * [Bancho (Server)](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/%EB%B0%98%EC%B5%B8%20(%EC%84%9C%EB%B2%84).md)
 
 # What i've Finished (Pending)
+*nothing here . . .*
 
 # Passed localization and Wait for Push (Qualified)
 * [`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9225) | [Wiki Page](https://osu.ppy.sh/wiki/en/Main_Page)
