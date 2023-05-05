@@ -10,7 +10,7 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 * [Bancho (Server)](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/%EB%B0%98%EC%B5%B8%20(%EC%84%9C%EB%B2%84).md)
 
 # What i've Finished (Pending)
-* [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | Pull Request | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
+* [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9297) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
 
 # Passed localization and Wait for Push (Qualified)
 *nothing here . . .*
