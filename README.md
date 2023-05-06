@@ -22,8 +22,8 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 4. [`Community/osu! discord server`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Community/osu!%20%EB%94%94%EC%BD%94%20%EC%84%9C%EB%B2%84.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9174) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Community/osu!_Discord_server)
 5. [`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) | [Pull Request 1](https://github.com/ppy/osu-wiki/pull/9225) | [Pull Request 2](https://github.com/ppy/osu-wiki/pull/9296) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Main_Page)
 
-# Outdated or need re-translate (Nomination Reset)
-* ~~[`osu!dev Discord server`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Community/osu!%20%EA%B0%9C%EB%B0%9C%20%EB%94%94%EC%BD%94%EC%84%AD.md) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Community/osu!dev_Discord_server) | dq cuz Pending PR in en.md (2023-04-19)~~ Renamed to `osu! Discord Server`
+# Outdated (Nomination Reset)
+* ~~[`osu!dev Discord server`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Community/osu!%20%EA%B0%9C%EB%B0%9C%20%EB%94%94%EC%BD%94%EC%84%AD.md) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Community/osu!dev_Discord_server) | Delayed cuz Pending PR in en.md (2023-04-19)~~ Renamed to `osu! Discord Server`
 
 ## Others (Guest Difficulty)
 * [`Main Page`](https://github.com/ppy/osu-wiki/pull/9196/commits/a2ed572e4c468589168085837a2486d8a6442336) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9196) | (Suggest Fix osu!dev to osu!)
