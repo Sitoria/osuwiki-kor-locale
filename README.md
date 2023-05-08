@@ -3,7 +3,6 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 # What I'll do (Not Submitted)
 * [TAG](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmap/%ED%83%9C%EA%B7%B8.md)
-* [Play Time](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmap/%ED%94%8C%ED%83%90.md)
 * [Weighting System](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Performance_points/%EA%B0%80%EC%A4%91%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
 
 # What i'm doing (WIP)
@@ -11,6 +10,7 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 
 # What i've Finished (Pending)
+* [`Beatmap/Play_time`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmap/%ED%94%8C%ED%83%90.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9328) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Beatmap/Play_time)
 * [`Bancho (Server)`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%B0%98%EC%B5%B8%20(%EC%84%9C%EB%B2%84).md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9323) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Bancho_(server))
 * [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9297) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
 
