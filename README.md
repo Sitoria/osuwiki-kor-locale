@@ -11,10 +11,10 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 *busy to touch grass*
 
 # What i've Finished (Pending)
-* [Weighting System](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Performance_points/%EA%B0%80%EC%A4%91%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9525) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Performance_points/Weighting_system)
+* [`Performance Points/Weighting System`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Performance_points/%EA%B0%80%EC%A4%91%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9525) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Performance_points/Weighting_system)
 
 # Passed localization and Wait for Push (Qualified)
-* [`Beatmap Host`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmap/%EB%B9%84%ED%8A%B8%EB%A7%B5%20%ED%98%B8%EC%8A%A4%ED%8A%B8.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9447) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Beatmap/Beatmap_host)
+*wow! grass is fucking awesome!*
 
 # Merged to Official Wiki (Approved)
 1. [`People/osu! Wiki Maintainers`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%9C%84%ED%82%A4%20%EA%B4%80%EB%A6%AC%EC%9E%90.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9150) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_wiki_maintainers) 
@@ -25,6 +25,7 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 6. [`Beatmap/Play time`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmap/%ED%94%8C%ED%83%90.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9328) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Beatmap/Play_time)
 7. [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9297) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
 8. [`Bancho (Server)`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%B0%98%EC%B5%B8%20(%EC%84%9C%EB%B2%84).md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9323) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Bancho_(server))
+9. [`Beatmap Host`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmap/%EB%B9%84%ED%8A%B8%EB%A7%B5%20%ED%98%B8%EC%8A%A4%ED%8A%B8.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9447) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Beatmap/Beatmap_host)
 
 # Outdated (Nomination Reset)
 * ~~[`osu!dev Discord server`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Community/osu!%20%EA%B0%9C%EB%B0%9C%20%EB%94%94%EC%BD%94%EC%84%AD.md) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Community/osu!dev_Discord_server) | Delayed cuz Pending PR in en.md (2023-04-19)~~ Renamed to `osu! Discord Server`
