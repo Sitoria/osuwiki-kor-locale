@@ -1,20 +1,20 @@
-# SEV rating
+# SEV 레이팅
 
-SEV is a measurement system used by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) to rate how relevant a [nomination reset](/wiki/Beatmap_ranking_procedure#nomination-resets) is to the evaluations of the nominating [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), providing both transparency and consistency. This measurement is split up into two values and displayed as *Obviousness/Severity*. Both values range from 0 to 2, making it a simple to understand and a quick-to-use system.
+SEV는 [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*)에서 [노미네이션 리셋](/wiki/Beatmap_ranking_procedure#nomination-resets)이 해당 노미네이션을 진행한 [비트맵 노미네이터](/wiki/People/Beatmap_Nominators) (*BN*)의 평가와 얼마나 관련이 있는지 조사하기 위해 사용하는 측정 시스템으로, 투명성과 일관성을 모두 제공합니다. 이 측정은 두 가지의 값으로 나뉘어지며, *명백성/심각도*로 표시됩니다. 두 값 모두 0에서 2 사이의 범위이므로 직관적이고 사용이 쉬운 시스템입니다.
 
-## Obviousness and severity
+## 명백성과 심각도
 
-*Note: A reset done to fix things which would be considered fine if left unfixed are always rated 0/0. This is to not discourage modding and applying improvements in [Qualified](/wiki/Beatmap/Category#qualified).*
+*메모: 수정하지 않아도 괜찮을 것으로 간주되는 문제를 수정하기 수행한 초기화는 항상 0/0으로 평가됩니다. 이는 [Qualified](/wiki/Beatmap/Category#qualified) 상태의 모딩 및 개선 사항을 조정하고 적용하는 것을 방해하지 않기 위한 것입니다.*
 
-**Obviousness** relates to how easy it is to spot the issue.
+**명백성**은 문제를 얼마나 쉽게 발견할 수 있는지와 관련이 있습니다.
 
-| Rating | Definition | Explanation |
+| 등급 | 정의 | 설명 |
 | :-: | :-- | :-- |
-| 0 | Not obvious | Applies if the issue is obscure or too granular to consistently catch on to. |
-| 1 | Can be found with experience | Requires knowledge/experience/attentiveness to catch. Can typically not be found by tools or regular users, e.g. timing/metadata issues. |
-| 2 | Can be found at a glance | Likely something that could be spotted by a regular user, or that would not have been missed when checking and using tools properly. |
+| 0 | 명백하지 않음 | 문제가 모호하거나 너무 세분화되어 지속적으로 파악하기에 어려운 경우에 적용됩니다. |
+| 1 | 경험으로 찾을 수 있음 | 파악하려면 지식/경험/주의가 필요합니다. 프로그램이나 일반 사용자는 발견하기 어렵습니다. (예시: 타이밍, 메타데이터 문제) |
+| 2 | 한 눈에 확인 가능함 | 일반 사용자가 발견할 수 있거나 프로그램을 제대로 확인하고 사용하면 놓칠 수 없는 문제일 수 있습니다. |
 
-**Severity** relates to how much the issue impacts gameplay.
+**심각도**는 게임 플레이에 얼마나 영향을 미치는지와 관련이 있습니다.
 
 | Rating | Definition | Explanation |
 | :-: | :-- | :-- |
