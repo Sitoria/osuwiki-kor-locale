@@ -31,19 +31,19 @@ SEV는 [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*N
 | 1/0 | 비트맵 노미네이터가 조금 더 주의를 기울였더라면 수정될 수 있었겠지만, 중요한 문제는 아닙니다. |
 | 1/1 | 비트맵 노미네이터가 조금 더 주의를 기울였다면 해결할 수 있었던 문제가 발생했습니다. |
 | 1/2 | 종종 많은 일이 잘못되었다는 것을 의미하지만, 이 모든 것을 쉽게 발견하려면 경험이 필요합니다. |
-| 2/0 | 메타데이터와 같은 맵 설정에서 눈에 띄는 문제가 발견되었습니다. |
+| 2/0 | 메타데이터 누락과 같은 맵 설정에서 문제가 발견되었습니다. |
 | 2/1 | 히트사운드 누락과 같은 맵의 게임 플레이에서 눈에 띄는 문제가 발견되었습니다. |
 | 2/2 | 겹쳐 있는 오브젝트와 같은 발견하기 쉬울 정도로 심각한 문제가 누락되었습니다. |
 
 ## 사용처
 
-SEV ratings are used in the [evaluations of Beatmap Nominators](/wiki/People/Nomination_Assessment_Team/Evaluations), weighed against how many nominations they have done.
+SEV 등급은 [비트맵 노미네이터 평가](/wiki/People/Nomination_Assessment_Team/Evaluations)에 사용되며, 비트맵 노미네이터의 노미네이트 횟수에 따라 가중치를 둡니다. 
 
-Mistakes happen and a healthy amount will help with learning, but if they happen too frequently or the same mistakes repeat, then that is a problem. This is why evaluations do not focus on individual SEV ratings, but take the entire picture into account on a case-by-case basis.
+실수는 누구나 할 수 있고, 어느 정도는 학습에 도움이 되지만, 너무 자주 발생하거나 동일한 실수가 반복되면 문제가 됩니다. 그렇기에 평가는 개별 SEV 등급에 초점을 맞추지 않고 사례별로 전체 상황을 고려하는 이유입니다.
 
-## Common reset reasons
+## 일반적인 리셋 사유
 
-*This data comprises 90% of all resets.*
+*이 데이터는 모든 리셋의 90%를 차지합니다.*
 
 Here is an exhaustive list of reasons nominations have been reset for with their respective SEV rating. These are based on stats of all SEV ratings set in the osu! game mode from February 2020 to April 2021, with percentages to show how common issues are.
 
