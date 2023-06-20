@@ -16,26 +16,26 @@ SEV는 [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*N
 
 **심각도**는 게임 플레이에 얼마나 영향을 미치는지와 관련이 있습니다.
 
-| Rating | Definition | Explanation |
+| 등급 | 정의 | 설명 |
 | :-: | :-- | :-- |
-| 0 | Negligible | Does not or hardly affects gameplay. |
-| 1 | Worth noting | Impacts gameplay negatively but not significantly. |
-| 2 | Moderate design flaw | Harms gameplay to the point where it is typically also noticeable to a regular user, e.g. a big jump in a low difficulty. In practice, this is often a combination of multiple notable reasons, such as being both too difficult to read and an unwarranted difficulty spike. |
+| 0 | 무시할 수 있음 | 게임 플레이에 영향을 미치지 않거나 거의 영향을 주지 않습니다. |
+| 1 | 주목할 만한 사항 | 게임 플레이에 부정적인 영향을 미치지만 크게 영향을 가하지는 않습니다. |
+| 2 | 중간 수준의 설계 결함 | 일반 사용자에게도 눈에 보일 정도로 게임 플레이에 해를 끼칩니다. (예시: 낮은 난이도에서 큰 점프) 실제로, 리딩이 어렵거나 불필요한 난이도 급상승 등 여러가지 주목할 만한 이유가 결합된 경우가 많습니다.  |
 
-Below are examples of SEV ratings and how they are roughly interpreted by evaluators:
+다음은 SEV 등급과 평가자가 이를 대략적으로 해석하는 예시입니다:
 
-| SEV | Description |
+| SEV | 설명 |
 | :-- | :-- |
-| 0/0 | This reset is insignificant and ignored for the purpose of evaluations. |
-| 0/1 | Something went wrong but it is hard to blame the BNs, as it was difficult to spot. |
-| 1/0 | Could have been fixed if the BNs had been more attentive, but is not a significant issue. |
-| 1/1 | Something went wrong that could have been fixed if the BNs were more attentive. |
-| 1/2 | Often means many things went wrong, but all require experience to spot easily. |
-| 2/0 | Some glaring issue in the map's settings, like metadata, was somehow missed. |
-| 2/1 | Some glaring issue in the map's gameplay, like no hitsounding, was missed. |
-| 2/2 | An issue so severe that it is difficult not to spot, like concurrent hit objects, was missed. |
+| 0/0 | 이 리셋은 중요하지 않으며 평가 목적으로는 사용되지 않습니다. |
+| 0/1 | 무언가 잘못되었지만 발견하기 어려웠기에 비트맵 노미네이터를 비난하기는 어렵습니다. |
+| 1/0 | 비트맵 노미네이터가 조금 더 주의를 기울였더라면 수정될 수 있었겠지만, 중요한 문제는 아닙니다. |
+| 1/1 | 비트맵 노미네이터가 조금 더 주의를 기울였다면 해결할 수 있었던 문제가 발생했습니다. |
+| 1/2 | 종종 많은 일이 잘못되었다는 것을 의미하지만, 이 모든 것을 쉽게 발견하려면 경험이 필요합니다. |
+| 2/0 | 메타데이터와 같은 맵 설정에서 눈에 띄는 문제가 발견되었습니다. |
+| 2/1 | 히트사운드 누락과 같은 맵의 게임 플레이에서 눈에 띄는 문제가 발견되었습니다. |
+| 2/2 | 겹쳐 있는 오브젝트와 같은 발견하기 쉬울 정도로 심각한 문제가 누락되었습니다. |
 
-## Usage
+## 사용처
 
 SEV ratings are used in the [evaluations of Beatmap Nominators](/wiki/People/Nomination_Assessment_Team/Evaluations), weighed against how many nominations they have done.
 
