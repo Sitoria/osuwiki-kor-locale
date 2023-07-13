@@ -1,10 +1,10 @@
 # SEV 레이팅
 
-SEV는 [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*)에서 [노미네이션 리셋](/wiki/Beatmap_ranking_procedure#nomination-resets)이 해당 노미네이션을 진행한 [비트맵 노미네이터](/wiki/People/Beatmap_Nominators) (*BN*)의 평가와 얼마나 관련이 있는지 조사하기 위해 사용하는 측정 시스템으로, 투명성과 일관성을 모두 제공합니다. 이 측정은 두 가지의 값으로 나뉘어지며, *명백성/심각도*로 표시됩니다. 두 값 모두 0에서 2 사이의 범위이므로 직관적이고 사용이 쉬운 시스템입니다.
+SEV는 [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) (*NAT*)에서 [노미네이션 리셋](/wiki/Beatmap_ranking_procedure#nomination-resets)이 해당 노미네이션을 진행한 [비트맵 노미네이터](/wiki/People/Beatmap_Nominators) (*BN*)의 평가와 얼마나 관련이 있는지 조사하기 위해 사용하는 측정 시스템으로, 투명성과 일관성을 모두 제공합니다. 이 측정은 두 가지의 값으로 나뉘어지며, *명백성/심각도*로 표시됩니다. 두 값 모두 0에서 2 사이의 범위이므로 직관적이고 사용이 쉬운 시스템입니다.
 
 ## 명백성과 심각도
 
-*메모: 수정하지 않아도 괜찮을 것으로 간주되는 문제를 수정하기 수행한 초기화는 항상 0/0으로 평가됩니다. 이는 [Qualified](/wiki/Beatmap/Category#qualified) 상태의 모딩 및 개선 사항을 조정하고 적용하는 것을 방해하지 않기 위한 것입니다.*
+*메모: 수정하지 않아도 괜찮을 것으로 간주되는 문제를 수정하기 수행한 초기화는 항상 0/0으로 평가됩니다. 이는 [퀄리파이](/wiki/Beatmap/Category#qualified) 상태의 모딩 및 개선 사항을 조정하고 적용하는 것을 방해하지 않기 위한 것입니다.*
 
 **명백성**은 문제를 얼마나 쉽게 발견할 수 있는지와 관련이 있습니다.
 
@@ -86,34 +86,34 @@ SEV 등급은 [비트맵 노미네이터 평가](/wiki/People/Nomination_Assessm
   - 맵에 현저한 수준으로 부정적 영향을 미치는 일반적인 매핑 실수
     - 부당한 난이도 급상승 (노래에 맞지 않는 경우와 같이)
     - 잔잔한 노래 구간에서 고밀도 / 큰 스페이싱
-    - Overmapping in a way that is introduced/executed poorly
-    - Mapping a big stream over multiple distinct [layers](/wiki/Music_theory/Layer) and sounds
+    - 오버매핑 in a way that is introduced/executed poorly
+    - 여러 개별 [레이어](/wiki/Music_theory/Layer) 및 사운드에 걸쳐 과도한 스트림 매핑
 - **1/2:** (14%)
   - 1/1과 똑같은 이유지만, 더 심각한 사항; 일반적으로 콤비네이션 관련
 
-### Timing
+### 타이밍
 
-*Makes up 15% of all >0/0 resets, 8% of all resets.*
+*모든 >0/0 리셋의 15%,전체 리셋의 8%를 차지합니다.*
 
 - **0/0:** (20%)
-  - Adjusting the preview point/kiai time
-  - Adding a red line to account for the Nightcore mod
-  - Using double/half BPM
-  - Slightly wrong offset
-    - For simple timing, < 6 ms off
-    - For complex timing, < 10 ms off
+  - 프리뷰 포인트/kiai 시간 조정
+  - 나이트코어 모드 정상 박자를 위한 빨간 선 추가
+  - BPM을 2배/0.5배 조정
+  - 사소하게 잘못된 오프셋
+    - 간단한 타이밍의 경우, < 6 ms 떨어짐
+    - 복합적 타이밍의 경우, < 10 ms 떨어짐
 - **1/0:** (11%)
-  - Wrong time signature
+  - 잘못된 박자 설정
 - **1/1:** (49%)
-  - Wrong offset
-    - For simple timing, ~6–12 ms off
-    - For complex timing, ~10+ ms off
+  - 틀린 오프셋
+    - 간단한 타이밍의 경우, ~6–12 ms 떨어짐
+    - 복합적 타이밍의 경우, ~10+ ms 떨어짐
 
-### Files
+### 파일들
 
-*Makes up 13% of all >0/0 resets, 16% of all resets.*
+*모든 >0/0 리셋의 13%, 전체 리셋의 16%를 차지합니다.*
 
-Resets related to beatmap files almost never have a severity above 0, as they usually do not affect gameplay. An exception is using storyboarded hitsounds as replacement for active ones.
+비트맵 파일과 관련된 리셋은 일반적으로 게임 플레이에 영향을 주지 않기 때문에 심각도가 0을 넘는 경우는 거의 없습니다. 그러나 스토리보드 히트사운드를 활성된 히트사운드 대신 사용할 경우 예외를 가집니다.
 
 - **0/0:** (64%)
   - Any change made from an already acceptable/rankable state, for example:
@@ -128,7 +128,7 @@ Resets related to beatmap files almost never have a severity above 0, as they us
   - Missing video on some difficulties
   - Content that is obviously inappropriate
 
-### Snapping
+### 스냅핑
 
 *Makes up 9% of all >0/0 resets, 4% of all resets.*
 
@@ -147,7 +147,7 @@ Resets related to beatmap files almost never have a severity above 0, as they us
     - Mis-snaps causing abnormal spacing to following/previous notes
     - A mis-snap part of a stream, burst, or triple (that cannot be a simplification)
 
-### Hitsounding
+### 히트사운딩
 
 *Makes up 7% of all >0/0 resets, 11% of all resets.*
 
