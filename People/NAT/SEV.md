@@ -45,51 +45,51 @@ SEV 등급은 [비트맵 노미네이터 평가](/wiki/People/Nomination_Assessm
 
 *이 데이터는 모든 리셋의 90%를 차지합니다.*
 
-Here is an exhaustive list of reasons nominations have been reset for with their respective SEV rating. These are based on stats of all SEV ratings set in the osu! game mode from February 2020 to April 2021, with percentages to show how common issues are.
+이 목록은 노미네이션이 SEV 등급에 의해 리셋된 이유에 대한 전체 목록입니다. 이는 2020년 2월부터 2021년 4월까지의 osu! 게임 모드에서 설정된 모든 SEV 등급의 통계를 기반으로 하며, 일반적인 문제가 얼마나 자주 발생하는지 백분율로 보여줍니다.
 
-This list does not cover every possible reset reason, and the NAT may rate resets for the same reasons listed differently, depending on the specific context.
+이 목록은 가능한 모든 리셋 사유을 다루지 않으며, NAT는 특정 상황에 따라 동일한 사유에 대한 리셋을 다르게 평가할 수 있습니다.
 
-### Metadata
+### 메타데이터
 
-*Makes up 22% of all >0/0 resets, 30% of all resets.*
+*모든 >0/0 리셋의 22%, 전체 리셋의 30%를 차지합니다.*
 
-Metadata resets *never* have a severity above 0, as they do not affect gameplay.
+메타데이터 리셋은 *절대* 게임플레이에 영향을 주지 않으므로 심각도가 0을 넘지 않습니다.
 
 - **0/0:** (70%)
-  - Adding tags for a new Featured Artist
-  - Adding guest mappers to tags due to a username change
-  - Adding tags that are more descriptive but are not required by the ranking criteria
-  - Resets due to the addition of a new rule
-  - Difficulty name changes
+  - 새로운 공식 아티스트에 대한 태그 추가
+  - 게스트 난이도 제작자 이름 변경으로 인한 태그 추가
+  - 랭크 크리테리아에 요구되지 않은 더 자세한 태그를 추가할 때
+  - 새로운 규칙이 추가됨으로 인한 리셋
+  - 난이도 이름 변경
 - **1/0:** (23%)
-  - Romanised artist name order
-  - Small romanisation and capitalisation errors
-  - 1 wrong character, spelling mistakes, etc.
-  - Missing genre/language tags
+  - 로마자로 표기된 아티스트 이름 관련
+  - 몇몇 로마자 및 대문자 표기 오류
+  - 한 글자 잘못 표기, 스펠링 오류, 기타 등등
+  - 장르 및 언어 태그 미 기입
 - **2/0:** (5%)
-  - Missing guest mappers in tags
-  - Missing Unicode field
-  - Wrong artist/title/source
+  - 게스트 난이도 제작자 이름 미 기입
+  - 유니코드 칸 누락
+  - 아티스트/제목/출처 틀림
 
-### Mapping
+### 매핑
 
-*Makes up 23% of all >0/0 resets, 18% of all resets.*
+*모든 >0/0 리셋의 23%, 전체 리셋의 18%를 차지합니다.*
 
-Resets due to mapping issues rarely have 2 in obviousness, as they require good mapping/modding knowledge to identify easily.
+매핑 문제로 인한 리셋은 매핑/모딩에 대한 지식이 필요하기 때문에 두 가지가 명확하게 구분되는 경우는 거의 없습니다.
 
 - **0/0:** (46%)
-  - Any changes from a state that was already acceptable, regardless of amount of changes:
-    - Fixing a broken stack (that does not affect readability)
-    - Adjusting a few patterns to improve a buildup
-    - Remapping an acceptable difficulty entirely because the mapper was unsatisfied with it
+  - 변경 사항의 양에 관계없이 이미 허용된 상태의 모든 변경 사항:
+    - 잘못된 스택 수정 (가독성에 영향을 주지 않는)
+    - 빌드업 개선을 위한 몇 가지 패턴 조정
+    - 제작자가 만족스럽지 않다는 이유로 허용 가능한 범위 내 난이도 전체 리매핑
 - **1/1:** (28%)
-  - Common mapping mistakes that negatively impact the map to a notable degree
-    - Unwarranted difficulty spikes (as in not fitting the song)
-    - Dense rhythms/high spacing in calm sections
+  - 맵에 현저한 수준으로 부정적 영향을 미치는 일반적인 매핑 실수
+    - 부당한 난이도 급상승 (노래에 맞지 않는 경우와 같이)
+    - 잔잔한 노래 구간에서 고밀도 / 큰 스페이싱
     - Overmapping in a way that is introduced/executed poorly
     - Mapping a big stream over multiple distinct [layers](/wiki/Music_theory/Layer) and sounds
 - **1/2:** (14%)
-  - Same reasons as for 1/1, but more severe; typically a combination
+  - 1/1과 똑같은 이유지만, 더 심각한 사항; 일반적으로 콤비네이션 관련
 
 ### Timing
 
