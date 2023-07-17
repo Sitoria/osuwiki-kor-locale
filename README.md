@@ -44,3 +44,4 @@ WIP ~~[`osu!dev Discord server`](https://github.com/Sitoria/osuwiki-kor-locale/b
 ## Others (Guest Difficulty)
 * [`Main Page`](https://github.com/ppy/osu-wiki/pull/9196/commits/a2ed572e4c468589168085837a2486d8a6442336) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9196) | Suggest Fix osu!dev to osu!
 * [`Do you really want to ask peppy?`](https://github.com/ppy/osu-wiki/pull/9650/commits/a58b8d820cdc30b89ea9c94331df24e523ce7f95) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9650) | Clean up Forum PM 
+* [`Map packs`](https://github.com/ppy/osu-wiki/pull/9678/commits/65a4593d2772de42d16041a13a89b622cefa67e4) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9678) | add Beatmap Pack Projects
