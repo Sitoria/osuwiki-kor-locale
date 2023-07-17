@@ -116,46 +116,46 @@ SEV 등급은 [비트맵 노미네이터 평가](/wiki/People/Nomination_Assessm
 비트맵 파일과 관련된 리셋은 일반적으로 게임 플레이에 영향을 주지 않기 때문에 심각도가 0을 넘는 경우는 거의 없습니다. 그러나 스토리보드 히트사운드를 활성된 히트사운드 대신 사용할 경우 예외를 가집니다.
 
 - **0/0:** (64%)
-  - Any change made from an already acceptable/rankable state, for example:
-    - Improving the audio from 128 kbps to 192 kbps
-    - Any harmless changes to the background, storyboard, or skin
-    - Inappropriate background(s) (where it is not obvious)
+  - 이미 허용 가능/랭크가 가능한 모든 변경 사항, 예를 들면:
+    - 오디오를 128kpbs에서 192kbps로 개선
+    - 배경, 스토리보드 또는 스킨의 무해한 변경
+    - 부적절한 배경(들) (분명하지 않은 경우)
 - **1/0:** (19%)
-  - Using audio that has been encoded upwards from a lower bitrate
-  - Using hitsound samples that affect gameplay negatively in the default skin
+  - 낮은 비트 전송률에서 상향 인코딩된 오디오 사용
+  - 기본 스킨을 사용했을 때 게임 플레이에 부정적인 영향을 미치는 히트 사운드 샘플 사용
 - **2/0:** (6%)
-  - Unused file(s)
-  - Missing video on some difficulties
-  - Content that is obviously inappropriate
+  - 사용하지 않는 파일(들)
+  - 몇몇 난이도에서 비디오 누락
+  - 명백히 부적절한 콘텐츠
 
 ### 스냅핑
 
-*Makes up 9% of all >0/0 resets, 4% of all resets.*
+*전체 >0/0 리셋의 9%, 모든 리셋의 4%를 차지합니다.*
 
 - **0/0:** (11%)
-  - AiMod incorrectly detecting an object less than 2 ms off as unsnapped
-  - Slightly mis-snapped slider end that tools cannot detect
+  - AiMod가 2ms 미만의 오브젝트를 언스냅으로 잘못 감지했을 경우
+  - 슬라이더 끝이 프로그램이 감지할 수 없을 정도로 약간의 미스 스냅이 발생했을 경우
 - **1/0:** (21%)
-  - Mis-snaps that hardly affect gameplay
-    - Slightly mis-snapped slider end that tools could help find
-    - An object being off by only a few milliseconds
+  - 게임 플레이에 거의 영향을 미치지 않는 미스 스냅
+    - 슬라이더 끝이 프로그램이 찾을 수 있는 정도의 작은 미스 스냅인 경우
+    - 몇 밀리초 정도 어긋난 오브젝트
 - **1/1:** (42%)
-  - Mis-snaps that are difficult to notice when playing, but sometimes cause 100s
+  - 플레이할 때는 알아차리기 어렵지만 때떄로 100점 판정을 유발하는 미스 스냅
 - **1/2:** (8%)
-  - Mis-snaps that notably affect gameplay
-    - Mis-snaps that always cause 100s, sometimes 50s, or even note locks
-    - Mis-snaps causing abnormal spacing to following/previous notes
-    - A mis-snap part of a stream, burst, or triple (that cannot be a simplification)
+  - 게임 플레이에 큰 영향을 미치는 미스 스냅
+    - 항상 100점 판정, 때때로는 50점 판정, 또는 노트락을 유발하는 미스 스냅
+    - 미스 스냅으로 인해 다음/이전 노트에 비정상적인 간격을 유발함
+    - 스트림, 버스트, 또는 트리플이 미스 스냅 (단순화할 수 없음)
 
 ### 히트사운딩
 
-*Makes up 7% of all >0/0 resets, 11% of all resets.*
+*모든 >0/0 리셋의 7%,모든 리셋의 11%를 차지합니다.*
 
 - **0/0:** (73%)
-  - Adding a few missing hitsounds
-  - Removing a few misplaced hitsounds
+  - 누락된 히트 사운드 몇 개 추가
+  - 잘못 배치된 히트사운드 몇 개 제거
 - **1/0:** (14%)
-  - Generally lacking hitsounds
-  - Bad hitsounding, e.g. unwarranted claps/snares/cymbals on every beat or similar
+  - 일반적인 히트사운드 부족
+  - 잘못된 히트사운드 (예시: 박자마다 박수/스네어/심벌즈 등 불필요한 히트사운드 다수 포함)
 - **1/1:** (6%)
-  - Silenced active objects
+  - 음소거된 활성 오브젝트
