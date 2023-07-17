@@ -8,10 +8,11 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 * [Game mode](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EA%B2%9C%20%EB%AA%A8%EB%93%9C.md) [U]
 
 # What i'm doing (WIP)
-* [People/NAT/SEV Rating](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/NAT/SEV.md) [N]
+*i'm done ._.*
 
 # What i've Finished (Pending)
 * [`Do you really want to ask peppy?`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%91%90%EC%9C%A0%EB%A6%AC%EC%96%BC%EB%A6%AC%EC%9B%90%ED%88%AC%EC%97%90%EC%8A%A4%ED%81%AC%ED%8E%98%ED%94%BC.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9720) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Do_you_really_want_to_ask_peppy)
+* [`People/Nomination Assessment Team/SEV Ratings`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/NAT/SEV.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9721) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/Nomination_Assessment_Team/SEV_rating)
 
 # Passed localization and Wait for Push (Qualified)
 
