@@ -13,7 +13,7 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 * [`People/Nomination Assessment Team/SEV Ratings`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/NAT/SEV.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9721) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/Nomination_Assessment_Team/SEV_rating)
 
 # Passed localization and Wait for Push (Qualified)
-
+* [`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) [Pull Request](https://github.com/ppy/osu-wiki/pull/9869) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Main_Page)
 
 # Merged to Official Wiki (Approved)
 11 [`Do you really want to ask peppy?`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%91%90%EC%9C%A0%EB%A6%AC%EC%96%BC%EB%A6%AC%EC%9B%90%ED%88%AC%EC%97%90%EC%8A%A4%ED%81%AC%ED%8E%98%ED%94%BC.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9720) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Do_you_really_want_to_ask_peppy)
