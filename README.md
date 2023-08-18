@@ -3,7 +3,6 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 # What I'll do (Not Submitted)
 * [TAG](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmap/%ED%83%9C%EA%B7%B8.md) [N]
-* [Game mode](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EA%B2%9C%20%EB%AA%A8%EB%93%9C.md) [U]
 * [People](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EC%82%AC%EB%9E%8C%EB%93%A4.md) [N]
 
 # What i'm doing (WIP)
@@ -11,12 +10,15 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 # What i've Finished (Pending)
 * [`Modding/Proto-bubble`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Modding/%ED%94%84%EB%A1%9C%ED%86%A0%EB%B2%84%EB%B8%94.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9867) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Modding/Proto-bubble)
-* [`People/Nomination Assessment Team/SEV Ratings`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/NAT/SEV.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9721) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/Nomination_Assessment_Team/SEV_rating)
 
 # Passed localization and Wait for Push (Qualified)
-* [`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) [Pull Request](https://github.com/ppy/osu-wiki/pull/9869) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Main_Page)
+*nothing xd*
 
 # Merged to Official Wiki (Approved)
+13 [`People/Nomination Assessment Team/SEV Ratings`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/NAT/SEV.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9721) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/Nomination_Assessment_Team/SEV_rating)
+
+12 [`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) [Pull Request](https://github.com/ppy/osu-wiki/pull/9869) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Main_Page)
+
 11 [`Do you really want to ask peppy?`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%91%90%EC%9C%A0%EB%A6%AC%EC%96%BC%EB%A6%AC%EC%9B%90%ED%88%AC%EC%97%90%EC%8A%A4%ED%81%AC%ED%8E%98%ED%94%BC.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9720) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Do_you_really_want_to_ask_peppy)
 
 10 [`Performance Points/Weighting System`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Performance_points/%EA%B0%80%EC%A4%91%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9525) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Performance_points/Weighting_system)
