@@ -10,10 +10,10 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 * [Combo](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmapping/%EC%BD%A4%EB%B3%B4.md) [N]
 
 # What i've Finished (Pending)
-* [`Modding/Proto-bubble`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Modding/%ED%94%84%EB%A1%9C%ED%86%A0%EB%B2%84%EB%B8%94.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9867) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Modding/Proto-bubble)
+*nothing xd*
 
 # Passed localization and Wait for Push (Qualified)
-*nothing xd*
+* [`Modding/Proto-bubble`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Modding/%ED%94%84%EB%A1%9C%ED%86%A0%EB%B2%84%EB%B8%94.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9867) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Modding/Proto-bubble)
 
 # Merged to Official Wiki (Approved)
 13 [`People/Nomination Assessment Team/SEV Ratings`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/NAT/SEV.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9721) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/Nomination_Assessment_Team/SEV_rating)
