@@ -3,16 +3,15 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 # What I'll do (Not Submitted)
 * [TAG](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmap/%ED%83%9C%EA%B7%B8.md) [N]
-* [People](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EC%82%AC%EB%9E%8C%EB%93%A4.md) [N]
 * [osu!api](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EC%98%B7%EC%93%B0%EC%97%90%EC%9D%B4%ED%94%BC%EC%95%84%EC%9D%B4.md) [U]
 * [Medals](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%A9%94%EB%8B%AC.md) [U]
 
 # What i'm doing (WIP)
-*nothing here*
+* [People](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EC%82%AC%EB%9E%8C%EB%93%A4.md) [N]
 
 # What i've Finished (Pending)
 * [`Beatmapping/Combo`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmapping/%EC%BD%A4%EB%B3%B4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9956) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Beatmapping/Combo)
-* [People/osu! Team](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9958) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
+* [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9958) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
 
 # Passed localization and Wait for Push (Qualified)
 * [`Modding/Proto-bubble`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Modding/%ED%94%84%EB%A1%9C%ED%86%A0%EB%B2%84%EB%B8%94.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9867) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Modding/Proto-bubble)
