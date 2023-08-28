@@ -11,12 +11,14 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 # What i've Finished (Pending)
 * [`Beatmapping/Combo`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmapping/%EC%BD%A4%EB%B3%B4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9956) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Beatmapping/Combo)
-* [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9958) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
+
 
 # Passed localization and Wait for Push (Qualified)
-* [`Modding/Proto-bubble`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Modding/%ED%94%84%EB%A1%9C%ED%86%A0%EB%B2%84%EB%B8%94.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9867) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Modding/Proto-bubble)
+* [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9958) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
 
 # Merged to Official Wiki (Approved)
+14 [`Modding/Proto-bubble`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Modding/%ED%94%84%EB%A1%9C%ED%86%A0%EB%B2%84%EB%B8%94.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9867) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Modding/Proto-bubble)
+
 13 [`People/Nomination Assessment Team/SEV Ratings`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/NAT/SEV.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9721) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/Nomination_Assessment_Team/SEV_rating)
 
 12 [`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) [Pull Request](https://github.com/ppy/osu-wiki/pull/9869) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Main_Page)
