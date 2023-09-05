@@ -14,9 +14,11 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 
 # Passed localization and Wait for Push (Qualified)
-* [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9958) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
+*combo waiting room :3*
 
 # Merged to Official Wiki (Approved)
+15 [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9958) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
+
 14 [`Modding/Proto-bubble`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Modding/%ED%94%84%EB%A1%9C%ED%86%A0%EB%B2%84%EB%B8%94.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9867) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Modding/Proto-bubble)
 
 13 [`People/Nomination Assessment Team/SEV Ratings`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/NAT/SEV.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9721) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/Nomination_Assessment_Team/SEV_rating)
