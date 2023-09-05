@@ -14,7 +14,7 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 
 # Passed localization and Wait for Push (Qualified)
-*combo waiting room :3*
+* [`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) [Pull Request]([https://github.com/ppy/osu-wiki/pull/9869](https://github.com/ppy/osu-wiki/pull/10013)) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Main_Page)
 
 # Merged to Official Wiki (Approved)
 15 [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9958) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
@@ -22,8 +22,6 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 14 [`Modding/Proto-bubble`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Modding/%ED%94%84%EB%A1%9C%ED%86%A0%EB%B2%84%EB%B8%94.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9867) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Modding/Proto-bubble)
 
 13 [`People/Nomination Assessment Team/SEV Ratings`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/NAT/SEV.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9721) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/Nomination_Assessment_Team/SEV_rating)
-
-12 [`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) [Pull Request](https://github.com/ppy/osu-wiki/pull/9869) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Main_Page)
 
 11 [`Do you really want to ask peppy?`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%91%90%EC%9C%A0%EB%A6%AC%EC%96%BC%EB%A6%AC%EC%9B%90%ED%88%AC%EC%97%90%EC%8A%A4%ED%81%AC%ED%8E%98%ED%94%BC.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9720) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Do_you_really_want_to_ask_peppy)
 
@@ -44,6 +42,8 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 1 [`People/osu! Wiki Maintainers`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%9C%84%ED%82%A4%20%EA%B4%80%EB%A6%AC%EC%9E%90.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9150) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_wiki_maintainers)
 
 # Outdated (Nomination Reset)
+
+~~12 [`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) [Pull Request](https://github.com/ppy/osu-wiki/pull/9869) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Main_Page)~~ Outdated because of [Completionists](https://github.com/ppy/osu-wiki/pull/9972) article added in Main Page (2023.08.25)
 
 7 ~~[`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9297) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)~~ Updated en.md (2023.08.19)
 
