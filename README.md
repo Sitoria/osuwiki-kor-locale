@@ -14,7 +14,7 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 
 # Passed localization and Wait for Push (Qualified)
-* [`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) [Pull Request](https://github.com/ppy/osu-wiki/pull/10013) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Main_Page)
+* [`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10013) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Main_Page)
 
 # Merged to Official Wiki (Approved)
 15 [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9958) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
@@ -43,7 +43,7 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 # Outdated (Nomination Reset)
 
-~~12 [`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) [Pull Request](https://github.com/ppy/osu-wiki/pull/9869) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Main_Page)~~ Outdated because of [Completionists](https://github.com/ppy/osu-wiki/pull/9972) article added in Main Page (2023.08.25)
+12 ~~[`Main Page`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.md) [Pull Request](https://github.com/ppy/osu-wiki/pull/9869) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Main_Page)~~ Outdated because of [Completionists](https://github.com/ppy/osu-wiki/pull/9972) article added in Main Page (2023.08.25)
 
 7 ~~[`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9297) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)~~ Updated en.md (2023.08.19)
 
