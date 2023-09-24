@@ -4,7 +4,6 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 # What I'll do (Not Submitted)
 * [TAG](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmap/%ED%83%9C%EA%B7%B8.md) [N]
 * [osu!api](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EC%98%B7%EC%93%B0%EC%97%90%EC%9D%B4%ED%94%BC%EC%95%84%EC%9D%B4.md) [U]
-* [Medals](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EB%A9%94%EB%8B%AC.md) [U]
 
 # What i'm doing (WIP)
 * [People](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EC%82%AC%EB%9E%8C%EB%93%A4.md) [N]
