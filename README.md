@@ -4,6 +4,7 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 # What I'll do (Not Submitted)
 * [TAG](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmap/%ED%83%9C%EA%B7%B8.md) [N]
 * [osu!api](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EC%98%B7%EC%93%B0%EC%97%90%EC%9D%B4%ED%94%BC%EC%95%84%EC%9D%B4.md) [U]
+* [Update Release](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Client/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%EB%A6%B4%EB%A6%AC%EC%A6%88.mdc) [N]
 
 # What i'm doing (WIP)
 *none*
@@ -15,9 +16,9 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 # Merged to Official Wiki (Approved)
 20 [`Client`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%20%EB%AA%A9%EC%B0%A8.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10162) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Client)
 
-19 * [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10049) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
+19 [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10049) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
 
-18 * [`People`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EA%B5%AC%EC%84%B1%EC%9B%90.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10098) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People)
+18 [`People`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EA%B5%AC%EC%84%B1%EC%9B%90.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10098) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People)
 
 17 [`Beatmapping/Combo`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmapping/%EC%BD%A4%EB%B3%B4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9956) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Beatmapping/Combo)
 
