@@ -10,8 +10,10 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 *none*
 
 # What i've Finished (Pending)
+[`Rules/Content usage permissions`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Rules/%EC%BB%A8%ED%85%90%EC%B8%A0%20%EC%82%AC%EC%9A%A9%20%EA%B6%8C%ED%95%9C.md) | [Pull Requests](https://github.com/ppy/osu-wiki/pull/10409) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Rules/Content_usage_permissions)
 
 # Passed localization and Wait for Push (Qualified)
+Change to `Technical Support Team` | [Pull Request]((https://github.com/ppy/osu-wiki/pull/10436)) | No Page
 
 # Merged to Official Wiki (Approved)
 20 [`Client`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%20%EB%AA%A9%EC%B0%A8.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10162) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Client)
@@ -59,6 +61,8 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 WIP ~~[`osu!dev Discord server`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Community/osu!%20%EA%B0%9C%EB%B0%9C%20%EB%94%94%EC%BD%94%EC%84%AD.md) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Community/osu!dev_Discord_server) | Delayed cuz Pending PR in en.md (2023-04-19)~~ Renamed to `osu! Discord Server`
 
 ## Others (Guest Difficulty)
+* [Tech Support Team](https://github.com/ppy/osu-wiki/pull/10425) | [Request](https://github.com/ppy/osu-wiki/pull/10425#issuecomment-1807387715)
+* [Content usage guidelines](https://github.com/ppy/osu-wiki/pull/10397) | [Comment](https://github.com/ppy/osu-wiki/pull/10397#issuecomment-1797133478)
 * [`Main Page`](https://github.com/ppy/osu-wiki/pull/9196/commits/a2ed572e4c468589168085837a2486d8a6442336) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9196) | Suggest Fix osu!dev to osu!
 * [`Do you really want to ask peppy?`](https://github.com/ppy/osu-wiki/pull/9650/commits/a58b8d820cdc30b89ea9c94331df24e523ce7f95) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9650) | Clean up Forum PM 
 * [`Map packs`](https://github.com/ppy/osu-wiki/pull/9678/commits/65a4593d2772de42d16041a13a89b622cefa67e4) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9678) | add Beatmap Pack Projects
