@@ -13,9 +13,11 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 [`Rules/Content usage permissions`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Rules/%EC%BB%A8%ED%85%90%EC%B8%A0%20%EC%82%AC%EC%9A%A9%20%EA%B6%8C%ED%95%9C.md) | [Pull Requests](https://github.com/ppy/osu-wiki/pull/10409) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Rules/Content_usage_permissions)
 
 # Passed localization and Wait for Push (Qualified)
-Change to `Technical Support Team` | [Pull Request]((https://github.com/ppy/osu-wiki/pull/10436)) | No Page
+
 
 # Merged to Official Wiki (Approved)
+21 Change to `Technical Support Team` | [Pull Request](https://github.com/ppy/osu-wiki/pull/10436) | *No Wiki Page Provided.*
+
 20 [`Client`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%20%EB%AA%A9%EC%B0%A8.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10162) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Client)
 
 19 [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10049) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
