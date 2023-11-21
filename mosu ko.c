@@ -13,7 +13,7 @@
             elif id == "server-offline":
                 return "현재 서버가 오프라인 상태이므로 온라인 기능을 사용할 수 없습니다!"
             elif id == "adapter-error":
-                return "연결 오류가 발생했습니다! osu! 클라이언트를 재실행 후 다시 시도해보세요!"
+                return "연결 오류가 발생했습니다!\nosu! 클라이언트를 재실행 후 다시 시도해보세요!"
             elif id == "already-logged-in":
                 return "이미 로그인 중입니다!"
             elif id == "logged-in-error":
@@ -25,7 +25,7 @@
                 return "로그인에 실패하였습니다.\n공식 디스코드에 접속 후 admin에게 연락해주세요!"
                 //login failed! join the official discord server and contact the admin!
             elif id == "dan-keycount-error":
-                return "키 카운트를 찾을 수 없습니다. 다시 로드해주세요!"
+                return "키 카운트를 찾을 수 없습니다.\n다시 로드해주세요!"
             elif id == "pause-detect":
                 return "일시정지가 감지되었습니다!\n이 스코어는 서버로 전송되지 않습니다!"
             elif id == "dan-dt-contain":
@@ -35,7 +35,7 @@
                 return "하프타임은 Dan에 포함되지 않습니다!\n모드를 확인해주세요!"
                 // /n please check the mod!
             elif id == "dan-no-pause":
-                return "일시정지가 없었네요! 수고하셨습니다! <3"
+                return "일시정지가 없으셨네요! 수고하셨습니다! <3"
                 //changed the sentence a bit: no pause! ggwp <3
             elif id == "dan-failed":
                 return "Dan 클리어에 실패했습니다...\n다음번엔 통과할 수 있을거에요!"
@@ -47,13 +47,13 @@
             elif id == "dan-nm":
                 return "이 Dan은 NoMod를 요구하는 Dan입니다.\n모드가 걸려있는지 확인해주세요!"
             elif id == "offline-sendmail":
-                return f"{optional[0]}님은 현재 오프라인으로 확인됩니다! \nBot will notify you of the message the next time {optional[0]} logs in!"
+                return f"{optional[0]}님은 현재 오프라인으로 확인됩니다! \n{optional[0]}님이 로그인하였을 경우 메세지를 보내드릴게요!"
             elif id == "restrict-multiplay-warn":
-                return "차단된 플레이어는 멀티플레이에 참가할 수 없습니다!\n차단 해제후 다시 시도해주세요."
+                return "차단된 플레이어는 멀티플레이에 참가할 수 없습니다!\n차단이 해제된 후 다시 시도해주세요."
             elif id == "silence-multiplay-warn":
                 return "사일런스된 플레이어는 멀티플레이에 참가할 수 없습니다!\n사일런스가 해제된 후 다시 시도해주세요."
             elif id == "scrim-change-warn":
                 return f"Changing team type while scrimming will reset the overall score! \nTo do so, please use the !mp teams {optional[0]} command."
 
             if id == "score-achieved":
-                return f"이 맵에서 #{optional[0]}를 기록했습니다! 수고하셨습니다, ({optional[1]})님!"
+                return f"이 맵에서 #{optional[0]}를 기록했습니다!\n수고하셨습니다, ({optional[1]})님!"
