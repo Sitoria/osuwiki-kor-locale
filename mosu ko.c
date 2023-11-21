@@ -22,8 +22,8 @@
                 return "패스워드가 틀렸습니다! 재입력해주세요!"
                 //add 2nd sentence: please retype!
             elif id == "login-failed":
-                return "로그인에 실패하였습니다.\n공식 디스코드에 접속 후 admin에게 연락해주세요!"
-                //login failed! join the official discord server and contact the admin!
+                return "로그인에 실패하였습니다.\n공식 디스코드에 접속 후 dev 그룹에 연락해주세요!"
+                //login failed! join the official discord server and contact the dev group!
             elif id == "dan-keycount-error":
                 return "키 카운트를 찾을 수 없습니다.\n다시 로드해주세요!"
             elif id == "pause-detect":
