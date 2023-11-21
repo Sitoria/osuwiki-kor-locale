@@ -8,7 +8,7 @@
                 return "계정이 차단되었습니다.\n계정이 차단되었을 경우 osu!에 포함된 모든 온라인 플레이가 제한됩니다.\n공식 디스코드 서버에서 도움을 요청하세요!"
                 //slightly changed the translation on bottom line: you can't play all of osu! online services when you are resctricted.
             elif id == "welcome":
-                return f"돌아오신 것을 환영합니다!\n현재 mamesosu.net 서버에 접속하고 있습니다."
+                return f"접속을 환영합니다!\n현재 mamesosu.net 서버에 접속하고 있습니다."
                 //2nd line is : you are currently connected on mamesosu.net server.
             elif id == "server-offline":
                 return "현재 서버가 오프라인 상태이므로 온라인 기능을 사용할 수 없습니다!"
