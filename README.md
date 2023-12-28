@@ -16,11 +16,13 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 
 # Merged to Official Wiki (Approved)
-21 Change to `Technical Support Team` | [Pull Request](https://github.com/ppy/osu-wiki/pull/10436) | *No Wiki Page Provided.*
+23 [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10603) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
+
+22 Change to `Technical Support Team` | [Pull Request](https://github.com/ppy/osu-wiki/pull/10436) | *No Wiki Page Provided.*
+
+21 [`Rules/Content usage permissions`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Rules/%EC%BB%A8%ED%85%90%EC%B8%A0%20%EC%82%AC%EC%9A%A9%20%EA%B6%8C%ED%95%9C.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10409) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Rules/Content_usage_permissions)
 
 20 [`Client`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%20%EB%AA%A9%EC%B0%A8.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10162) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Client)
-
-19 [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10049) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)
 
 18 [`People`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EA%B5%AC%EC%84%B1%EC%9B%90.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10098) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People)
 
@@ -51,6 +53,8 @@ Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 1 [`People/osu! Wiki Maintainers`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%9C%84%ED%82%A4%20%EA%B4%80%EB%A6%AC%EC%9E%90.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9150) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_wiki_maintainers)
 
 # Outdated (Nomination Reset)
+
+~~19 [`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10049) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)~~Hivie left the BSCV
 
 15 ~~[`People/osu! Team`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/People/%EC%98%A4%EC%8A%A4%20%ED%8C%80%EC%9B%90%EB%93%A4.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/9958) | [Wiki Page](https://osu.ppy.sh/wiki/ko/People/osu!_team)~~ Outdated because some wiki links are [added](https://github.com/ppy/osu-wiki/pull/10018/files) in wiki (2023.09.08)
 
