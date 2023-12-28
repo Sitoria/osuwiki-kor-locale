@@ -2,15 +2,13 @@
 Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 # What I'll do (Not Submitted)
-* [TAG](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmap/%ED%83%9C%EA%B7%B8.md) [N]
 * [osu!api](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EC%98%B7%EC%93%B0%EC%97%90%EC%9D%B4%ED%94%BC%EC%95%84%EC%9D%B4.md) [U]
 * [Update Release](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Client/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%EB%A6%B4%EB%A6%AC%EC%A6%88.mdc) [N]
 
 # What i'm doing (WIP)
-*none*
 
 # What i've Finished (Pending)
-[`Rules/Content usage permissions`](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Rules/%EC%BB%A8%ED%85%90%EC%B8%A0%20%EC%82%AC%EC%9A%A9%20%EA%B6%8C%ED%95%9C.md) | [Pull Requests](https://github.com/ppy/osu-wiki/pull/10409) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Rules/Content_usage_permissions)
+* [TAG](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Beatmap/%ED%83%9C%EA%B7%B8.md) | [Pull Request](https://github.com/ppy/osu-wiki/pull/10718) | [Wiki Page](https://osu.ppy.sh/wiki/ko/Beatmap/TAG)
 
 # Passed localization and Wait for Push (Qualified)
 
