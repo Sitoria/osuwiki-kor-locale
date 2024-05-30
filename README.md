@@ -2,11 +2,11 @@
 Translated by [Shige-Tori[a]](https://osu.ppy.sh/u/4459449)
 
 # What I'll do (Not Submitted)
-* [osu!api](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Wiki/%EC%98%B7%EC%93%B0%EC%97%90%EC%9D%B4%ED%94%BC%EC%95%84%EC%9D%B4.md) [U]
-* [Update Release](https://github.com/Sitoria/osuwiki-kor-locale/blob/main/Client/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%EB%A6%B4%EB%A6%AC%EC%A6%88.mdc) [N]
+* [Update Release](/Client/업데이트%20릴리즈.md) [N]
 
 # What i'm doing (WIP)
-* [Community](Community/커뮤니티.md)
+* [Community](Community/커뮤니티.md) [N]
+* [osu!api](/Wiki/옷쓰에이피아이.md) [U]
 
 # What i've Finished (Pending)
 
